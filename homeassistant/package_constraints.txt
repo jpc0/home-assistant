@@ -7,7 +7,7 @@ jinja2>=2.10
 pip>=8.0.3
 pytz>=2018.04
 pyyaml>=3.11,<4
-requests==2.19.1
+requests==2.20.0
 voluptuous==0.11.1
 
 # Breaks Python 3.6 and is not needed for our supported Python versions
